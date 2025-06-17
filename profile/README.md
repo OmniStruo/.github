@@ -15,18 +15,7 @@ This is a **private collaborative space** for building:
 
 ## 🔐 Private Collaboration
 
-This is not an open-source community — it's a private collaboration between contributors. However, we welcome like-minded developers who share a passion for reusable code and productivity tooling.
-
----
-
-## 🤝 Want to Join?
-
-If you're interested in contributing or collaborating, send us a message with your background and interest:
-
-📧 **ferencziviktor@icloud.com**  
-📧 **molnarmilan.cc@gmail.com**
-
-All programming languages and frameworks are welcome.
+This is not an open-source community — it's a private collaboration between contributors.
 
 ---
 
