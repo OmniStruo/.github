@@ -2,9 +2,10 @@
 
 Welcome to the **K&M Software** GitHub organization 👋
 
-This is a **private collaborative space** for building:
+This is a **collaborative space** for building:
 
 - 🧱 **Template projects** to kickstart development
+- 🧱 **Production applications** for customers or ourselves
 - 🧩 **Generic, reusable frontend components**
 - 🛠 **Developer scripts and utilities** for daily workflows
 - ⚙️ Tools and helpers in **any programming language**
