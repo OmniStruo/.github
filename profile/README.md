@@ -13,7 +13,6 @@ Core Focus:
 ⚙️ Developer Utilities: A collection of helpers, scripts, and libraries designed for efficiency.
 
 📐 Structured Code: We believe in stability, scalability, and engineered precision.
----
 
 ## 🔐 Private Collaboration
 
