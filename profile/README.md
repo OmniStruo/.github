@@ -1,17 +1,18 @@
-# K&M Software
+# OmniStruo
 
-Welcome to the **K&M Software** GitHub organization 👋
+**Building Structure for Every Solution.**
 
-This is a **collaborative space** for building:
+OmniStruo (derived from Latin Omni "all" + Struo "to build") is a development organization dedicated to engineering comprehensive digital solutions. We specialize in bridging the gap between complex requirements and clean execution.
 
-- 🧱 **Template projects** to kickstart development
-- 🧱 **Production applications** for customers or ourselves
-- 🧩 **Generic, reusable frontend components**
-- 🛠 **Developer scripts and utilities** for daily workflows
-- ⚙️ Tools and helpers in **any programming language**
+Our focus is twofold: crafting bespoke software tailored to unique client needs, and maintaining a suite of powerful helper utilities that streamline development workflows.
 
-> We're focused on creating well-structured, language-agnostic solutions to streamline software development for internal and external projects.
+Core Focus:
 
+🛠️ Custom Solutions: Tailor-made software architecture for specific business logic.
+
+⚙️ Developer Utilities: A collection of helpers, scripts, and libraries designed for efficiency.
+
+📐 Structured Code: We believe in stability, scalability, and engineered precision.
 ---
 
 ## 🔐 Private Collaboration
